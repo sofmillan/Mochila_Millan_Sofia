@@ -1,2 +1,25 @@
 Cheatsheet git github
-git init: sirve para inicializar el repo
+
+git init 
+Initialize an existing directory as a Git repository
+
+git add [file]
+Add a file as it looks now to your next commit 
+
+git commit -m "Message"
+Commit the staged content
+
+git push 
+Move local changes to remote repository
+
+git rm [file]
+Delete the file from a project
+
+git clone [url]
+Retrieve an entire repository from a hosted location
+
+git pull 
+Fetch and merge any commits from the tracking remote branch 
+
+git branch [branch-name] 
+Create a new branch
