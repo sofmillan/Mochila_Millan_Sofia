@@ -1,0 +1,2 @@
+Cheatsheet git github
+git init: sirve para inicializar el repo
