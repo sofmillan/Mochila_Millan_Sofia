@@ -5,6 +5,6 @@ Un lenguaje de programación solo puede utilizarse en ciertos sistemas operativo
 VirtualBox es un software para virtualización, conocido también como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de un ordenador existente, creando una máquina virtual.
 
 Si tengo mas de una maquina virutal instalada, y una se rompe ¿Esto afecta a las demás? ¿Por qué?
-No las afectaría, porque se comportan como sistemas informáticos independientes, es decir no se encuentran relacionadas entre sí.
+No las afectaría, porque se comportan como sistemas informáticos independientes, es decir no se encuentran relacionadas entre sí y est[an aisladas del sistema.
 
 
